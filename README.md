@@ -15,6 +15,7 @@ This app allows users to explore the collection of movies in a visually appealin
 <img width="457" alt="app" src="https://github.com/user-attachments/assets/0d55bd02-4b77-4408-8d84-c868ce4f0755">
 
 4.video
+
 https://github.com/user-attachments/assets/f39500be-d0cc-410e-9412-dc676da04dc9
 
 5. download project and open in xcode
